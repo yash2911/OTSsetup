@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?><inits id="N8B5E780010811ECA4F9B3FD9D748D48" type="com.ibm.rational.test.ft.aftsuite"><group><tests><test path="/Project1/Tests/jquery1.testsuite"/><test path="/Project1/Compound Tests/CompoundTest1.testsuite"/></tests><browsers><browser name="firefox"/></browsers>
-	<locations>
-		<location host="10.115.83.216"></location></locations></group></inits>
